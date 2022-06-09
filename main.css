@@ -63,6 +63,7 @@ body {
   height: 200px;
   margin: auto;
   padding-top: 70px;
+  border-radius: 5px;
 }
 
 .red {

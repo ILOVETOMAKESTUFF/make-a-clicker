@@ -39,13 +39,13 @@ body {
     transition-duration: 0.4s;
   }
 
-  .more-info {
+  .theme {
     background-color: #f5f5f5;
     color: black;
     transition-duration: 0.4s;
   }
 
-  .more-info:hover {
+  .theme:hover {
     background-color: #d4d4d4;
     transition-duration: 0.4s;
   }
@@ -56,4 +56,15 @@ body {
 
   #center {
     text-align: center;
+}
+
+.facts {
+  width: 80vm;
+  height: 200px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.red {
+  background-color: #b91c1c;
 }

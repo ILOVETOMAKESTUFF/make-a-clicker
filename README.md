@@ -3,4 +3,4 @@ Make a clicker game and (whenever I learn python and make a server or get nodejs
 
 ## Credits
 
-Background images are from wallpaperset.com, and some scripts are from sttackoverflow and w3schools.
+Background images are from wallpaperset.com, and some scripts are from stackoverflow and w3schools.

@@ -1,5 +1,6 @@
 .store {
     width: 30vw;
+    height: 100vh;
     background-image: url("assets/65987.jpg");
     float: left;
 }
